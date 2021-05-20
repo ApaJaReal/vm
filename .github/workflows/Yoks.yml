@@ -46,7 +46,7 @@ jobs:
 
     - name: Membuat Akun
 
-      run: Set-LocalUser -Name "admin" -Password (ConvertTo-SecureString -AsPlainText "ApaJa" -Force)
+      run: Set-LocalUser -Name "runneradmin" -Password (ConvertTo-SecureString -AsPlainText "Apaja1616" -Force)
 
     - name: Membuat Tunnel.
 
