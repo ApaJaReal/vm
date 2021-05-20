@@ -1,4 +1,4 @@
-      name: Persiapan
+name: Persiapan
 
 on: workflow_dispatch
 
